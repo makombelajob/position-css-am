@@ -8,9 +8,17 @@
     --clr-black : black;
     --clr-grey : rgba(241, 234, 234, 0.151);
 }
+body, html {
+    padding: 0;
+    margin: 0;
+}
 header {
+    margin-bottom: 30px;
     display: var(--dsp-grid);
     grid-template-columns: 1fr 1fr;
+    padding-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 0px;
     ul {
         display: var(--dsp-flex);
         gap : 0.7rem;
@@ -18,7 +26,6 @@ header {
         a{
             color: var(--clr-black);
             text-decoration: var(--text-decor);
-            font-size: 1.5rem;
         }
     }
 }
@@ -39,6 +46,9 @@ main {
             text-align: var(--txt-align);
 
         }
+    }
+    .lorem {
+        margin : 10px;
     }
     
 }
