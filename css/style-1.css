@@ -1,0 +1,52 @@
+/* main style */
+:root {
+    font-size : 12px;
+    --list-style : none ;
+    --txt-dec : none;
+    --dsp-flex : flex;
+    --dsp-grid : grid;
+    --txt-black : black;
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    nav {
+        display: var(--dsp-grid);
+        grid-template-columns: 1fr 1fr;
+        border-bottom : 1px Solid var(--txt-black);
+        h2 {
+            font-size: 2rem;
+        }
+    }
+    ul {
+        list-style : var(--list-style);
+        display: var(--dsp-flex);
+        gap : 2rem;
+        li {
+            font-size: 2rem;
+            a {
+                text-decoration: var(--txt-dec);
+                color : var(--txt-black);
+            }
+        }
+    }
+}
+
+/* style for tp-1 */
+main {
+    .center {
+        position : fixed;
+        width: 200px;
+        height: 200px;
+        background: black;
+        top : 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+
