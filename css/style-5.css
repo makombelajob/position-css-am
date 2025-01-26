@@ -4,8 +4,8 @@
 
 main div button {
     position: fixed;
-    right: 30px;
-    bottom: 40px;
+    right: 2rem;
+    bottom: 3rem;
     font-size: 2rem;
     background-color: rgb(4, 13, 51);
 }
