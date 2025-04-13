@@ -15,7 +15,7 @@ Create a square box of 200x200 pixels and center it **both vertically and horizo
 - Centered using `position: absolute` or `position: fixed` combined with `transform: translate`
 
 ### 🖼️ Screenshot
-![TP1 - Centered Box](Docs/Screenshots-tp1.png)
+![TP1 - Centered Box](Docs/Screenshot-tp1.png)
 
 ---
 
@@ -30,7 +30,7 @@ Create a **navigation bar that stays fixed** at the top of the page while scroll
 - Remains visible during scrolling
 
 ### 🖼️ Screenshot
-![TP2 - Sticky Navigation](Docs/Screenshots-tp2.png)
+![TP2 - Sticky Navigation](Docs/Screenshot-tp2.png)
 
 ---
 
@@ -45,7 +45,7 @@ Create a **table of contents (ToC)** that stays visible at the top while reading
 - Enhances reading experience during scrolling
 
 ### 🖼️ Screenshot
-![TP3 - Sticky ToC](Docs/Screenshots-tp3.png)
+![TP3 - Sticky ToC](Docs/Screenshot-tp3.png)
 
 ---
 
@@ -60,7 +60,7 @@ Display a **tooltip** when hovering over a button.
 - Positioned above the button with slight offset
 
 ### 🖼️ Screenshot
-![TP4 - Tooltip](Docs/Screenshots-tp4.png)
+![TP4 - Tooltip](Docs/Screenshot-tp4.png)
 
 ---
 
@@ -75,7 +75,7 @@ Create a **scroll-to-top** button positioned at the bottom-right corner of the s
 - Visible while scrolling down the page
 
 ### 🖼️ Screenshot
-![TP5 - Scroll to Top](Docs/Screenshots-tp5.png)
+![TP5 - Scroll to Top](Docs/Screenshot-tp5.png)
 
 ---
 
