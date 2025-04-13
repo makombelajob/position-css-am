@@ -2,7 +2,7 @@ main {
     font-size: 40px;
     .tool {
         position: relative;
-        top : 200px;
+        top: 200px;
         left: 200px;
         box-shadow: 2px 2px 4px black;
         width: 50%;
